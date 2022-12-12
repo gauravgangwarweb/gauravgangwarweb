@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/gauravgangwar51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravgangwar51" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav gangwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav gangwar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gauravgangwar501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravgangwar501" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
