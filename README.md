@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/gauravgangwar51" target="blank"><img src="https://img.shields.io/twitter/follow/gauravgangwar51?logo=twitter&style=for-the-badge" alt="gauravgangwar51" /></a> </p>
 
-- 🔭 I’m currently working on **To Do List**
+- 🔭 I’m currently working on **Blog App**
 
-- 🌱 I’m currently learning **Full Stack Web Development at Microverse**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 All of my projects are available at [https://gauravgangwarweb.github.io/Portfolio-Project-Mobile-First-/](https://gauravgangwarweb.github.io/Portfolio-Project-Mobile-First-/)
 
-- 💬 Ask me about **Html, Css and Javascript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **gauravgangwar501@gamil.com**
 
