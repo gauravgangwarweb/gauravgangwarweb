@@ -1,4 +1,3 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w)
 <h1 align="center">Hi 👋, I'm Gaurav Gangwar</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
@@ -11,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 👨‍💻 All of my projects are available at [https://gauravgangwarweb.github.io/Portfolio-Project-Mobile-First-/](https://gauravgangwarweb.github.io/Portfolio-Project-Mobile-First-/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.gauravgangwarweb.me/)
 
 - 💬 Ask me about **Web Development**
 
