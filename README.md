@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **gauravgangwar501@gamil.com**
+- 📫 How to reach me **contact@gauravgangwarweb.me**
 
 - ⚡ Fun fact **I think I am Crazy**
 
